@@ -1,0 +1,5 @@
+<launch>
+
+	<!-- not finished -->
+	<node name="urg_node" pkg="urg_node" type="urg_node" output="screen">
+	

@@ -1,5 +1,0 @@
-<launch>
-
-<include file="$(find truck_ws)/truck_ws/src/launch/imu.launch" />
-
-</launch>
